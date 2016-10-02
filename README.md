@@ -3,7 +3,7 @@ Contains the web service calls for all the services related to shotgun.
 Means of communication is using JSON
 Following URLs and JSON will guide you with going through web calls
 --------------------- Registration Page --------------------
-URL : http://localhost:8080/register
+URL : http://ec2-54-191-60-17.us-west-2.compute.amazonaws.com:8080/register
 Input Json:
 {
 	"firstname":"test",
